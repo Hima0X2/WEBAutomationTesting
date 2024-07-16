@@ -1,6 +1,7 @@
 # Wafilife
 
-This is a web automation project that automates the testing of the <a href="https://www.wafilife.com/">Online Book Shop in Bangladesh</a> website using Selenium WebDriver ,TestNG framework and Java. The project uses Allure report to generate detailed and interactive reports of the test results.
+This is a web automation project that automates the testing of the <a href="https://www.wafilife.com/">Online Book Shop in Bangladesh</a> website using Selenium WebDriver ,TestNG framework and Java. 
+<!--  The project uses Allure report to generate detailed and interactive reports of the test results.-->
 
 <h5>Test Steps</h5>
 ✅ Visit the whole website.<br>
