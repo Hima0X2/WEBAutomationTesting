@@ -33,7 +33,7 @@ This is a web automation project that automates the testing of the <a href="http
    </tr>
    <tr>
     <td>IDE</td>
-    <td><b>Spring Tool Suite 4</b></td>
+    <td><b>Eclipse</b></td>
    </tr>
 <!--    <tr>
     <td>Test Reporting Framework</td>
