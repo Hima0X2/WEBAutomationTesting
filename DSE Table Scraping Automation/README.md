@@ -58,12 +58,12 @@ dependencies {
 ### 4. Run the Script
 Navigate to:
 ```
-src/test/java/DSEDataScraper.java
+src/test/java/dseTableScrap.java
 ```
 
 Right-click the file and select Run.
 
-A browser window will open, scrape the table, and store data in output.txt.
+A browser window will open, scrape the table, and store data in data.txt.
 
 ## 📷 Test Report Screenshot
 
