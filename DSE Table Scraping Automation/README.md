@@ -67,9 +67,11 @@ A browser window will open, scrape the table, and store data in output.txt.
 
 ## 📷 Test Report Screenshot
 
+![image](https://github.com/user-attachments/assets/a691ab3c-65d4-44d4-9027-52057dae4b39)
 
 ## 🎥 Demo Video
 
+https://github.com/user-attachments/assets/dcf982c8-f36f-40bd-8e95-b23492961775
 
 ## 👩‍💻 Author
 
