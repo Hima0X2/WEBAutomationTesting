@@ -3,6 +3,8 @@
 This project automates the **WP Everest Guest Registration Form** using **Selenium WebDriver** and **JUnit** in **Java**. The script fills out form fields with valid data, submits the form, and verifies a successful submission using assertions.
 
 ---
+## 🌐 Target Website
+https://demo.wpeverest.com/user-registration/guest-registration-form/
 
 ## ✅ Automated Form Fields
 
