@@ -29,7 +29,7 @@ This project demonstrates Selenium WebDriver automation with TestNG for automati
 
 ## 1. Clone this repository:
 ```
-   git clone 
+   git clone https://github.com/Hima0X2/WEBAutomationTesting.git
    cd Dailyfinance
  ```
 ## 2. Gradle Dependencies
